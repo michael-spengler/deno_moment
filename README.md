@@ -9,9 +9,7 @@ Some cases on the [moment.js](http://momentjs.com/docs/) official website:
 ### Import
 
 ```ts
-import { moment } from "https://deno.land/x/moment/moment.ts";
-// or
-import { moment } from "https://raw.githubusercontent.com/lisniuse/deno_moment/master/moment.ts";
+import { moment } from "https://deno.land/x/deno_moment@1.0.0/moment.ts";
 ```
 
 ### Cases
