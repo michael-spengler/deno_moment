@@ -1,4 +1,4 @@
-import { moment } from "https://deno.land/x/moment/mod.ts";
+import { moment } from "https://deno.land/x/deno_moment/mod.ts";
 import { sleep } from "https://x.nest.land/sleep@1.0.0/mod.ts";
 
 let now = moment();

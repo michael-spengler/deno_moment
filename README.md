@@ -4,7 +4,7 @@
 
 ```ts
 
-import { moment } from "https://deno.land/x/moment/mod.ts";
+import { moment } from "https://deno.land/x/deno_moment/mod.ts";
 import { sleep } from "https://x.nest.land/sleep@1.0.0/mod.ts";
 
 let now = moment();
@@ -19,7 +19,7 @@ console.log(`\n${now} is before \n${now2} - \nis that true? --> ${now.isBefore(n
 
 ```sh
 
-deno run https://deno.land/x/moment/usage-example.ts
+deno run https://deno.land/x/deno_moment/usage-example.ts
 
 ```
 
