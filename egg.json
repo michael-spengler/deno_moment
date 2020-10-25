@@ -1,0 +1,10 @@
+{
+                                "name": "deno_moment",
+                                "description": "Providing momentjs features in deno ",
+                                "homepage": "https://github.com/michael-spengler/deno_moment",
+                                "files": [
+                                  "./**/*.ts",
+                                  "README.md"
+                                ],
+                                "entry": "./mod.ts"
+                              }
